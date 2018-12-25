@@ -6,7 +6,7 @@ This project is developed in flask and python. It is a blog application created 
 
 Clone this project and run this command in terminal
 
-`$ python blog.py`
+`$ python run.py`
 
 Visit URL `localhost:5000` to see the sample website.
 
