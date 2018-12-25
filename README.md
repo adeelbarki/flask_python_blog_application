@@ -4,7 +4,7 @@
 
 This project is developed in flask and python. It is a blog application created for software blogs from different authors. 
 
-Clone this project and run this command in terminal
+Clone the project and run this command in terminal
 
 `$ python run.py`
 
