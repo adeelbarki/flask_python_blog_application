@@ -10,24 +10,24 @@ It is currently in testing phase and running in deployment mode.
 Visit live application at http://adeelbarki.com
 
 ## Author
+Adeel Barki
+Full Stack Engineer/Electronics Engineer
 
-        Adeel Barki
-        Full Stack Engineer/Electronics Engineer
+## Source Code
+For source code visit my [github repo](https://github.com/adeelbarki/flask_python_blog_application)
 
-        For source code visit my [github repo](https://github.com/adeelbarki/flask_python_blog_application)
+In order to run it locally, clone the github repo in your local machine.
 
-        In order to run it locally, clone the github repo in your local machine. </br></br>
+`$ git clone https://github.com/adeelbarki/flask_python_blog_application.git`
 
-        `$ git clone https://github.com/adeelbarki/flask_python_blog_application.git`
+To run this application, simply run this command in flask_python_blog_application folder.
 
-        To run this application, simply run this command in flask_python_blog_application folder.
+`$ python run.py`
 
-        `$ python run.py`
-
-        Python version 3.6 must be installed for better performance.
+Python version 3.6 must be installed for better performance.
 
 ## Contact Me
 
-        Contact: adeelbarki@gmail.com
+Contact: adeelbarki@gmail.com
 
 
