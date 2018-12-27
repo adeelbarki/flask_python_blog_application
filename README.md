@@ -51,10 +51,10 @@ Special thanks to [Core Schafer](https://www.youtube.com/user/schafer5/about) fo
 
 Adeel Barki
 _Full Stack Engineer / Electronics Engineer_
-Email(Contact): _adeelbarki@gmail.com_
-LinkedIn: _https://www.linkedin.com/in/adeelbarki/_
-twitter: _@adeelbarki_
-Facebook: _adeelbarki_
+* Email(Contact): _adeelbarki@gmail.com_
+* LinkedIn: _https://www.linkedin.com/in/adeelbarki/_
+* twitter: _@adeelbarki_
+* Facebook: _adeelbarki_
 
 
 
