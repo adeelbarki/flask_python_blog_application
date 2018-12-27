@@ -15,12 +15,23 @@ This demo website is actually a real blog website that has certain features:
 
 * App is build in flask and database used is sqlite. 
 * Registration and Login Forms
-* Forgot Password with email verification
+* Forgot Password with email verification(_Read below Email Verification_)
 * Posting, updating & deleting a blog
 * Order blogs using priority and pagination
 * Blogs filter by author
 
-## 
+## Email Verification
+
+In case, if this repo is cloned. Email verification will not work unless a sender email is provided. After cloning this project, follow these instructions to run the application perfectly.
+
+* Turn on `Less secure app access` in your Gmail Account Security.
+* `$ cd blog/users` into the directory and open `utils.py`. In line 28, 
+`sender='youremail@gmail.com` change youremail to your own gmail account. Email smtp protocol settings can be found in `blog/config.py`.
+* Enviorment Variable must be set for secret key, email and password in order to run _forgot your password_ on this application. For more info, kindly email at adeelbarki@gmail.com or see how to set environment variable on desired operation systems
+
+
+## Upcoming Features
+
 _More features will be included in next version of app._
 _Next Upgrade includes Like button and comment on specific post._
 
