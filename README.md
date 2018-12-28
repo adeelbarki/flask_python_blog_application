@@ -7,7 +7,7 @@ This project is developed in flask and python. It is a blog application created 
 This application is designed for the learning process of Flask Python project.
 It is currently in testing phase and running in deployment mode. 
 
-Visit live application at http://adeelbarki.com
+Visit live application at http://172.104.160.122
 
 ## Features
 
